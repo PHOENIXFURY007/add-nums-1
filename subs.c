@@ -1,5 +1,5 @@
 #include<stdio.io>
 int main() {
-    printf("This program substracts numbers.");
+    printf("This program subtracts numbers.");
     return 0;
 }
